@@ -1,6 +1,8 @@
 /tmp/cache/*
 *.scssc
 
+node_modules
+
 *.log
 
 log/development.log
