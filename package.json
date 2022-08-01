@@ -8,7 +8,7 @@
   "scripts": {
     "start": "http-server ./src"
   },
-  "devDependencies": {
+  "dependencies": {
     "http-server": "^0.12.3"
   }
 }
