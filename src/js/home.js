@@ -188,7 +188,7 @@ d3.select(".homeSVG").append("text")
     .attr("x", 794)
     .attr("y", 558)
     .attr("fill", "#707070")
-    .text("Jugar >")
+    .text("Play >")
     .on("mouseover", function(d) {
 
         d3.select(this).style("fill", "#2692F2")
