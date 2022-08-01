@@ -36,4 +36,4 @@ I wanted Vax to be all of the following, and more...
 
 ## How was Vax built?
 
-Before Vax, the extent of my web development experience is encompassed by this amazing Ruby on Rails tutorial[http://ruby.railstutorial.org]. Therefore this web application is minimalist by-design. I've employed a few libraries, such as d3.js[http://d3js.org], jquery[http://jquery.com], and jqueryui[http://jqueryui.com]. I've also employed a few gems to handle cookies, errors, and styling.
+This web application is minimalist by-design. I've employed a few libraries, such as d3.js[http://d3js.org], jquery[http://jquery.com], and jqueryui[http://jqueryui.com]. I've also employed a few gems to handle cookies, errors, and styling.
